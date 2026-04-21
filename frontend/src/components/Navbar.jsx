@@ -20,9 +20,8 @@ export default function Navbar() {
           <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-emerald-700 text-white">
             <Sprout className="h-5 w-5" />
           </div>
-          <div className="leading-tight">
-            <div className="font-display text-lg font-black text-stone-900">KrishiSage</div>
-            <div className="-mt-0.5 text-[10px] uppercase tracking-[0.2em] text-stone-500">smart crop advisory</div>
+          <div className="font-display text-lg font-black leading-tight text-stone-900">
+            Smart Crop Advisory System
           </div>
         </NavLink>
 
